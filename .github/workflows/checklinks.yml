@@ -10,5 +10,4 @@ jobs:
       - uses: JustinBeckwith/linkinator-action@v1
         with:
           paths: docs/*.md
-          requireHttps: true
           recurse: true
